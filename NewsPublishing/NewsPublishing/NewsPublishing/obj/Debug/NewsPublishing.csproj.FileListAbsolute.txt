@@ -1,0 +1,21 @@
+C:\Users\cstuser\source\repos\NewsPublishing\NewsPublishing\bin\Debug\NewsPublishing.exe.config
+C:\Users\cstuser\source\repos\NewsPublishing\NewsPublishing\bin\Debug\NewsPublishing.exe
+C:\Users\cstuser\source\repos\NewsPublishing\NewsPublishing\bin\Debug\NewsPublishing.pdb
+C:\Users\cstuser\source\repos\NewsPublishing\NewsPublishing\obj\Debug\NewsPublishing.csprojAssemblyReference.cache
+C:\Users\cstuser\source\repos\NewsPublishing\NewsPublishing\obj\Debug\NewsPublishing.csproj.CoreCompileInputs.cache
+C:\Users\cstuser\source\repos\NewsPublishing\NewsPublishing\obj\Debug\NewsPublishing.exe
+C:\Users\cstuser\source\repos\NewsPublishing\NewsPublishing\obj\Debug\NewsPublishing.pdb
+C:\Users\cstuser\source\repos\NewsPublishing\NewsPublishing\NewsPublishing\bin\Debug\NewsPublishing.exe.config
+C:\Users\cstuser\source\repos\NewsPublishing\NewsPublishing\NewsPublishing\bin\Debug\NewsPublishing.exe
+C:\Users\cstuser\source\repos\NewsPublishing\NewsPublishing\NewsPublishing\bin\Debug\NewsPublishing.pdb
+C:\Users\cstuser\source\repos\NewsPublishing\NewsPublishing\NewsPublishing\obj\Debug\NewsPublishing.csprojAssemblyReference.cache
+C:\Users\cstuser\source\repos\NewsPublishing\NewsPublishing\NewsPublishing\obj\Debug\NewsPublishing.csproj.CoreCompileInputs.cache
+C:\Users\cstuser\source\repos\NewsPublishing\NewsPublishing\NewsPublishing\obj\Debug\NewsPublishing.exe
+C:\Users\cstuser\source\repos\NewsPublishing\NewsPublishing\NewsPublishing\obj\Debug\NewsPublishing.pdb
+E:\Program Modifications\Labs\MarissaGoncalvesLab5\NewsPublishing\NewsPublishing\NewsPublishing\bin\Debug\NewsPublishing.exe.config
+E:\Program Modifications\Labs\MarissaGoncalvesLab5\NewsPublishing\NewsPublishing\NewsPublishing\bin\Debug\NewsPublishing.exe
+E:\Program Modifications\Labs\MarissaGoncalvesLab5\NewsPublishing\NewsPublishing\NewsPublishing\bin\Debug\NewsPublishing.pdb
+E:\Program Modifications\Labs\MarissaGoncalvesLab5\NewsPublishing\NewsPublishing\NewsPublishing\obj\Debug\NewsPublishing.csprojAssemblyReference.cache
+E:\Program Modifications\Labs\MarissaGoncalvesLab5\NewsPublishing\NewsPublishing\NewsPublishing\obj\Debug\NewsPublishing.csproj.CoreCompileInputs.cache
+E:\Program Modifications\Labs\MarissaGoncalvesLab5\NewsPublishing\NewsPublishing\NewsPublishing\obj\Debug\NewsPublishing.exe
+E:\Program Modifications\Labs\MarissaGoncalvesLab5\NewsPublishing\NewsPublishing\NewsPublishing\obj\Debug\NewsPublishing.pdb

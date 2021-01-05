@@ -1,0 +1,7 @@
+E:\Program Modifications\Labs\MarissaGoncalvesLab5\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+E:\Program Modifications\Labs\MarissaGoncalvesLab5\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe
+E:\Program Modifications\Labs\MarissaGoncalvesLab5\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb
+E:\Program Modifications\Labs\MarissaGoncalvesLab5\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csprojAssemblyReference.cache
+E:\Program Modifications\Labs\MarissaGoncalvesLab5\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csproj.CoreCompileInputs.cache
+E:\Program Modifications\Labs\MarissaGoncalvesLab5\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
+E:\Program Modifications\Labs\MarissaGoncalvesLab5\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb
